@@ -1,0 +1,11 @@
+{
+  "name": "com.must.audiomanager",
+  "version": "1.0.0",
+  "displayName": "Audio Manager",
+  "description": "Simple Audiomanager script for 2d & 3d games",
+  "unity": "2021.3",
+  "dependencies": {},
+  "author": {
+    "name": "Must",
+  }
+}
